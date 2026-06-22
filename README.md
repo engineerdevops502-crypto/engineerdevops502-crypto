@@ -1,7 +1,7 @@
 <!-- BANNER SECTION -->
 <div align="center">
   <!-- Replace 'your-image-url-here.png' with your actual image path or URL -->
-  <img src="watermarked_img_12959658572162835375.png" alt="DevOps and Automation Banner" width="100%" style="border-radius: 8px;" />
+  <img src="DevOps and Automation Banner Image.png" alt="DevOps and Automation Banner" width="100%" style="border-radius: 8px;" />
 </div>
 
 <br />
