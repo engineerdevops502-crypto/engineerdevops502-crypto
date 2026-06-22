@@ -1,3 +1,14 @@
+<!-- BANNER SECTION -->
+<div align="center">
+  <!-- Replace 'your-image-url-here.png' with your actual image path or URL -->
+  <img src="watermarked_img_12959658572162835375.png" alt="DevOps and Automation Banner" width="100%" style="border-radius: 8px;" />
+</div>
+
+<br />
+
+<!-- HEADER SECTION -->
+
+
 <div align="center">
   <h1>👋 Hi, I'm a Danish Iqbal (DevOps & Automation Engineer)</h1>
   <p>💡 Passionate about automating workflows, containerizing applications, and building scalable cloud infrastructure.</p>
