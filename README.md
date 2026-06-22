@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm a DevOps & Automation Engineer</h1>
+  <h1>👋 Hi, I'm a Danish Iqbal (DevOps & Automation Engineer)</h1>
   <p>💡 Passionate about automating workflows, containerizing applications, and building scalable cloud infrastructure.</p>
 </div>
 
